@@ -1,0 +1,7 @@
+Title: Example gtsummary app
+Author: parmsam
+AuthorUrl: https://github.com/ddsjoberg/gtsummary
+License: GPL-3
+DisplayMode: Showcase
+Tags: gtsummary-shiny
+Type: Shiny
